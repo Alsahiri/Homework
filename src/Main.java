@@ -125,5 +125,6 @@ public class Main {
                 differenceD + " рублей");
         System.out.println("Кристина теперь получает " + cSalary + " рублей. Годовой доход вырос на " +
                 differenceC + " рублей");
+        // почему-то пропал первый коммит
     }
 }
